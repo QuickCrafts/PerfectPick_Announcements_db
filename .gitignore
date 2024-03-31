@@ -1,17 +1,10 @@
 data/mysql.sock
-data/mysql
 data/performance_schema
 data/sys
-auto.cnf
 ca-key.pem
 ca.pem
 client-cert.pem
 client-key.pem
-ib_buffer_pool
-ib_logfile0
-ib_logfile1
-ibdata1
-ibtmp1
 private_key.pem
 public_key.pem
 server-cert.pem
